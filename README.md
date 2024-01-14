@@ -8,7 +8,7 @@
 > **Note**<br>
 The code in this repository is for the **original version** of tldraw, which is hosted at [old.tldraw.com](https://old.tldraw.com). The code for the **new version** (hosted at [tldraw.com](https://tldraw.com)) can be found in the main [tldraw repo](https://github.com/tldraw/tldraw).
 
-**🙋‍♂️ As of 2024, this version is no longer actively maintained.**
+**🤬 At the beginning of 2024, Steve Ruiz abandoned this version.**
 
 ---
 
